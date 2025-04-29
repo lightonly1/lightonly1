@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Krit Prakash
 
-🎓 AI/ML Educator | 🧠 Machine Learning Developer | 📚 NLP Instructor  
+Data Science Professional | AI/ML Developer | NLP Specialist
+ 
 📍 Hyderabad, India | ✉️ lightonly66@gmail.com  
 
 
