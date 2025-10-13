@@ -7,12 +7,9 @@
 
 ### 🔍 About Me
 
-I’m a Data Science professional with over 7 years of experience in developing, teaching, and mentoring AI/ML solutions. My journey spans from hands-on ML system development to leading training sessions for 300+ students and early-career professionals. I specialize in NLP and model deployment using the latest tools and frameworks.
-
-Currently exploring:
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🤗 Hugging Face Transformers
-- 🚢 MLflow, Docker & scalable ML pipelines
+Data Science & Python Trainer with 8+ years of academic and technical experience.
+Passionate about transforming raw data into actionable insights using Python, SQL, and Excel.
+Currently mentoring learners and working on real-world Data Analytics & Machine Learning projects.
 
 ---
 
