@@ -1,62 +1,84 @@
-# 👋 Hi, I'm Krit Prakash
-
-**Machine Learning Engineer | NLP Specialist | AI/ML Mentor (7+ Years)**  
-📍 Hyderabad, India · ✉️ lightonly66@gmail.com
-
----
-
-### 🔍 About Me
-
-Data Science & Python Trainer with 8+ years of academic and technical experience.
-Passionate about transforming raw data into actionable insights using Python, SQL, and Excel.
-Currently mentoring learners and working on real-world Data Analytics & Machine Learning projects.
+# Krit Prakash
+**Data Analyst | Python & SQL | Machine Learning | Data Visualization**  
+Hyderabad, India | Email: lightonly66@gmail.com | [LinkedIn](https://www.linkedin.com/in/krit-prakash-9a32a1246/) | [GitHub](https://github.com/lightonly1)
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages:** Python, SQL  
-**ML Libraries:** Scikit-learn, TensorFlow, PyTorch, Hugging Face  
-**Tools:** Jupyter, Git, Docker, Streamlit, MLflow, VS Code  
-**Concepts:** Classification, Regression, Clustering, NLP, Time Series Forecasting, Recommendation Systems
+## About Me
+Motivated Data Analyst with over 8 years of academic and training experience in Python, SQL, and Data Analytics, now transitioning into a full-time industry role. Skilled in data cleaning, visualization, statistical analysis, and machine learning to extract actionable business insights. Passionate about leveraging data to support decision-making and organizational growth.
 
 ---
 
-### 📈 Featured Projects
+## Skills
 
-- 🚨 **Credit Card Fraud Detection**  
-  Built using ensemble models, ROC AUC: 94.7%. Deployed with Streamlit.  
-  `Scikit-learn · Imbalanced data handling · Classification metrics`
-
-- 📉 **Customer Churn Prediction**  
-  Streamlit app to predict customer churn with logistic regression & decision trees.  
-  `EDA · Model Training · Deployment · User Interface`
-
-- 🧑‍💼 **HR Attrition Predictor**  
-  End-to-end ML workflow using HR dataset. Focus on feature engineering & interpretability.  
-  `Logistic Regression · Explainable AI · HR analytics`
-
-- 🎬 **Movie Recommender System**  
-  Personalized movie recommendations using collaborative filtering and cosine similarity.  
-  `Recommender Systems · Matrix Factorization`
-
-- 📊 **Sales Forecasting with ARIMA**  
-  Predicting future sales using time series forecasting models.  
-  `Statsmodels · Forecast accuracy · Trend analysis`
-
-- 🔎 **RAG Pipeline Demo**  
-  Simple Retrieval-Augmented Generation using Transformers and custom context docs.  
-  `Transformers · Tokenizers · FAISS/RAG pipelines`
+**Programming & Analytics:** Python (NumPy, Pandas, Scikit-learn), SQL, Jupyter Notebook  
+**Data Visualization:** Excel, Matplotlib, Seaborn  
+**Statistical Analysis:** Regression, Correlation, Hypothesis Testing, ANOVA, Time Series Forecasting  
+**Machine Learning:** Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering  
+**Data Handling:** Data Cleaning, Transformation, Exploratory Data Analysis (EDA)  
+**Database Tools:** MS SQL Server  
+**Cloud Tools:** Google Colab, Azure (learning)  
+**Soft Skills:** Communication, Analytical Thinking, Mentoring, Team Collaboration, Problem-Solving
 
 ---
 
-### 📬 Let’s Connect
+## Featured Projects
 
-- [💼 LinkedIn](https://linkedin.com/in/krit-prakash-9a32a1246)
-- [🎓 Microsoft Learn](https://learn.microsoft.com/en-us/users/kritprakash-5502/)
-- ✉️ Reach me: lightonly66@gmail.com
+### Customer Churn Prediction using Deep Learning
+- Built an Artificial Neural Network (ANN) model to predict telecom customer churn.  
+- Achieved 80.8% accuracy and ROC–AUC of 0.857.  
+- Insights: Month-to-month contracts, short tenure, and Fiber optic services increase churn risk.  
+[View Project](https://github.com/lightonly1/Customer-Churn-Prediction)
+
+### Netflix Movie Recommendation System
+- Built a content-based recommendation system using TruncatedSVD.  
+- Successfully generated accurate movie recommendations and gained practical experience in dimensionality reduction and similarity-based filtering techniques.  
+[View Project](https://github.com/lightonly1/Netflix-Recommendation-System)
+
+### Credit Card Fraud Detection
+- Developed a machine learning model to detect fraudulent transactions from an imbalanced dataset.  
+- Achieved 99% ROC-AUC using Random Forest with SMOTE-based data balancing.  
+[View Project](https://github.com/lightonly1/Credit-Card-Fraud-Detection)
 
 ---
 
-⭐️ *I'm open to roles in Machine Learning, NLP, and AI Engineering — remote or onsite.*  
-*Let’s build intelligent systems that make a difference.*
+## Certifications
+- Machine Learning with Python – IBM, 2024  
+- Data Analytics with Python – NPTEL, IIT Roorkee, 2023  
+- Machine Learning Specialization – Stanford University & DeepLearning.AI, 2024  
+- Introduction to Machine Learning (Elite + Silver Topper Badge) – NPTEL, 2025
+
+---
+
+## Experience
+
+**Python and Data Science Trainer** | Vignan Institute of Technology & Science (VITS), Hyderabad | Nov 2021 – Present  
+- Conducted sessions on Python, SQL, and Data Analytics.  
+- Designed capstone projects involving data visualization and predictive modeling.  
+- Mentored learners in statistical analysis, feature engineering, and model interpretation.
+
+**Assistant Professor (Data Analytics & Computation)** | KL University, Vijayawada | Apr 2017 – May 2019  
+- Integrated Python and data analysis concepts into undergraduate curriculum.  
+- Guided student projects focusing on data visualization and exploratory data analysis.  
+- Promoted data-driven approaches for institutional reporting and assessment.
+
+**Assistant Professor (Engineering Analytics)** | HCE, Bhubaneswar | Jun 2016 – Apr 2017  
+- Delivered sessions on computational and quantitative analysis.  
+- Mentored student projects emphasizing data interpretation and problem-solving.
+
+---
+
+## Education
+- **M.Tech in Mechanical Engineering** – IIT (ISM) Dhanbad | 2016 | CGPA: 7.17/10  
+- **B.Tech in Production Engineering** – BIT Sindri | 2012 | CGPA: 7.92/10
+
+---
+
+## Achievements
+- NPTEL Machine Learning Course Topper (Silver Badge)  
+- Completed multiple AI & ML certifications from leading universities
+
+---
+
+## Contact
+Email: lightonly66@gmail.com | Hyderabad, India | [LinkedIn](https://www.linkedin.com/in/krit-prakash-9a32a1246/)
