@@ -28,7 +28,7 @@ Motivated Data Analyst with over 8 years of academic and training experience in 
 - Built an Artificial Neural Network (ANN) model to predict telecom customer churn.  
 - Achieved 80.8% accuracy and ROC–AUC of 0.857.  
 - Insights: Month-to-month contracts, short tenure, and Fiber optic services increase churn risk.  
-[View Project](https://github.com/lightonly1/Customer-Churn-Prediction)
+[View Project]([https://github.com/lightonly1/Deep-Learning-Customer-Churn])
 
 ### Netflix Movie Recommendation System
 - Built a content-based recommendation system using TruncatedSVD.  
