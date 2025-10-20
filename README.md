@@ -36,8 +36,9 @@ Motivated Data Analyst with over 8 years of academic and training experience in 
 [View Project](https://github.com/lightonly1/Netflix-Recommendation-System)
 
 ### Credit Card Fraud Detection
-- Developed a machine learning model to detect fraudulent transactions from an imbalanced dataset.  
-- Achieved 99% ROC-AUC using Random Forest with SMOTE-based data balancing.  
+- Logistic Regression achieved the highest ROC-AUC score of 0.977.  
+- Random Forest also performed strongly with ROC-AUC 0.973 and excellent recall
+- Decision Tree served as a good baseline model
 [View Project](https://github.com/lightonly1/Credit-Card-Fraud-Detection)
 
 ---
