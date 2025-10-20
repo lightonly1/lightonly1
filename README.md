@@ -48,6 +48,7 @@ Motivated Data Analyst with over 8 years of academic and training experience in 
 - Data Analytics with Python – NPTEL, IIT Roorkee, 2023  
 - Machine Learning Specialization – Stanford University & DeepLearning.AI, 2024  
 - Introduction to Machine Learning (Elite + Silver Topper Badge) – NPTEL, 2025
+- Business Intelligence and Analytics- NPTEL, IIT Madras ,2025
 
 ---
 
