@@ -1,5 +1,5 @@
 # Krit Prakash
-**Data Analyst | Technical Lead — Industrial AI & Predictive Maintenance**
+**Data Analyst | Technical Lead - Industrial AI & Predictive Maintenance**
 IIT (ISM) Dhanbad (M.Tech) | Hyderabad, India
 
 ---
