@@ -1,33 +1,45 @@
-Hi there 👋 I am Krit Prakash
+# Hi, I'm Krit Prakash 👋
 
-I am an Analytics Engineer specializing in predictive maintenance, machine learning and data analytics. I work with Python, SQL, XGBoost and time-series models to build data-driven solutions for industrial and business problems.
+Machine Learning Engineer with hands-on experience building end-to-end ML pipelines using real-world sensor and business datasets. Microsoft Certified Azure AI Fundamentals (AI-900, Score: 841).
 
-I have a background in engineering research and applied data science with certifications from IIT Roorkee, NPTEL Elite and Stanford University.
+I specialize in predictive modeling, time-series forecasting, and deploying machine learning solutions.
 
-🔭 I’m currently working on
+## 🔧 Core Skills
 
-Building predictive maintenance and reliability analytics models using machine learning and sensor data.
+- Python, SQL
+- Machine Learning: Regression, Classification, Time-Series Forecasting
+- Deep Learning: TensorFlow, Keras
+- Model Deployment: Streamlit
+- Tools: Pandas, NumPy, Scikit-learn, XGBoost, Git
 
-🌱 I’m currently learning
+## 🚀 Featured Projects
 
-Advanced MLOps, model deployment and production-grade data pipelines.
+### NASA Turbofan Engine Remaining Useful Life Prediction
+- Built hybrid Kalman Filter + XGBoost pipeline
+- Achieved R²: 0.832 and RMSE: 17.01
+- Implemented complete ML pipeline with feature engineering and SHAP explainability
 
-👯 I’m looking to collaborate on
+### Customer Churn Prediction (Deep Learning)
+- Built ANN model using TensorFlow and Keras
+- Achieved 80.8% accuracy
+- Deployed using Streamlit
 
-Machine learning, predictive analytics, time-series forecasting and business analytics projects.
+### NACA Airfoil Performance Prediction
+- Built ML model to predict lift and drag
+- Achieved <5% deviation from physics simulation
 
-💬 Ask me about
+## ☁️ Certification
 
-Python, SQL, Machine Learning, XGBoost, Predictive Maintenance, Customer Churn and Data Analytics.
+- Microsoft Certified: Azure AI Fundamentals (AI-900) – Score: 841
 
-📫 How to reach me
+## 🎯 Currently Focused On
 
-LinkedIn: https://www.linkedin.com/in/krit-prakash-9a32a1246
+- Machine Learning Engineer roles
+- Production-ready ML deployment
+- Real-world AI applications
 
-GitHub: https://github.com/lightonly1
+## 📫 Connect with me
 
-🚀 Featured Projects
-
-• NASA Turbofan Remaining Useful Life Prediction
-• Deep Learning Customer Churn Prediction
-• NACA Airfoil Performance Prediction
+LinkedIn: https://linkedin.com/in/krit-prakash-9a32a1246  
+GitHub: https://github.com/lightonly1  
+Email: lightonly66@gmail.com
