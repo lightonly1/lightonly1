@@ -4,6 +4,8 @@ Machine Learning Engineer with a background in Mechanical Engineering from IIT (
 
 I work on applied machine learning problems where data, engineering and deployment come together  especially in predictive maintenance, time-series forecasting and industrial analytics.
 
+---
+
 ## What I Focus On
 
 - Predictive Maintenance  
@@ -11,6 +13,8 @@ I work on applied machine learning problems where data, engineering and deployme
 - MLOps and Deployment  
 - Explainable AI  
 - Industrial Sensor Data Analytics  
+
+---
 
 ## What I Build
 
@@ -22,7 +26,7 @@ I build complete ML systems not just models.
 
 ## Featured Projects
 
-### 1. Turbofan Engine RUL Prediction — MLOps Pipeline
+### 1. Turbofan Engine RUL Prediction - MLOps Pipeline
 Production-style ML system for predicting Remaining Useful Life (RUL) using NASA CMAPSS data.
 
 - PySpark preprocessing  
@@ -32,7 +36,7 @@ Production-style ML system for predicting Remaining Useful Life (RUL) using NASA
 - Docker + Azure deployment  
 - GitHub Actions CI/CD  
 
-Live API:  
+**Live API:**  
 https://turbofan-rul-app.azurewebsites.net/docs  
 
 ---
@@ -42,12 +46,12 @@ Hybrid approach using **Kalman Filter + XGBoost**
 
 - 30+ engineered features  
 - SHAP explainability  
-- Strong performance  
+- Strong predictive performance  
 
 ---
 
 ### 3. Airfoil Performance Prediction (NACA)
-ML model to predict lift and drag.
+Machine learning model to predict lift and drag.
 
 - Replaces expensive simulations (XFOIL/CFD)  
 - Demonstrates ML as engineering surrogate  
@@ -55,7 +59,7 @@ ML model to predict lift and drag.
 ---
 
 ### 4. Customer Churn Prediction
-Deep learning-based churn system.
+Deep learning-based churn prediction system.
 
 - TensorFlow/Keras  
 - SQL preprocessing  
