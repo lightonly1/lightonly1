@@ -1,104 +1,38 @@
 # Hi, I’m Krit Prakash
 
-Machine Learning Engineer with a background in Mechanical Engineering from IIT (ISM) Dhanbad.
+**Data Scientist | ML Engineer | MLOps Specialist**  
+M.Tech from IIT (ISM) Dhanbad | Ex-Assistant Professor (Applied AI/ML)
 
-I work on applied machine learning problems where data, engineering and deployment come together  especially in predictive maintenance, time-series forecasting and industrial analytics.
-
----
-
-## What I Focus On
-
-- Predictive Maintenance  
-- Time-Series Modeling  
-- MLOps and Deployment  
-- Explainable AI  
-- Industrial Sensor Data Analytics  
+I build **end-to-end production ML systems** — from raw data to deployed APIs — with strong focus on predictive maintenance, time-series, and Generative AI (RAG).
 
 ---
 
-## What I Build
+### 🔥 Featured Projects
 
-I build complete ML systems not just models.
+**1. NASA Turbofan Engine Predictive Maintenance – Full MLOps Pipeline**  
+[→ Repository](https://github.com/lightonly1/turbofan-predictive-maintenance-mlops)  
+- PySpark preprocessing (20k+ records)  
+- XGBoost model (R² = **0.906**, RMSE = 12.71)  
+- MLflow tracking + FastAPI + Docker + Azure deployment + GitHub Actions CI/CD  
+- **Live Demo**: [turbofan-rul-app.azurewebsites.net/docs](https://turbofan-rul-app.azurewebsites.net/docs)
 
-**data → features → model → tracking → API → deployment**
+**2. Local RAG System for Research Proposal Generation** (Tech Mahindra Makers Lab)  
+- Fully local LLM application using **LLaMA 3 + Mistral + LangChain + FAISS** (Ollama)  
+- Zero external API cost | Multi-step generation + evaluation workflow
 
----
-
-## Featured Projects
-
-### 1. Turbofan Engine RUL Prediction - MLOps Pipeline
-Production-style ML system for predicting Remaining Useful Life (RUL) using NASA CMAPSS data.
-
-- PySpark preprocessing  
-- XGBoost model  
-- MLflow tracking  
-- FastAPI  
-- Docker + Azure deployment  
-- GitHub Actions CI/CD  
-
-**Live API:**  
-https://turbofan-rul-app.azurewebsites.net/docs  
+**3. NACA Airfoil Aerodynamic Prediction**  
+ML surrogate model achieving <5% deviation from physics simulations.
 
 ---
 
-### 2. NASA Turbofan RUL Prediction — Hybrid Modeling
-Hybrid approach using **Kalman Filter + XGBoost**
-
-- 30+ engineered features  
-- SHAP explainability  
-- Strong predictive performance  
+### Tech Stack
+**Python** • **PySpark** • **pandas** • **scikit-learn** • **XGBoost**  
+**MLflow** • **FastAPI** • **Docker** • **Azure** • **GitHub Actions**  
+**LangChain** • **FAISS** • **Ollama** (LLaMA 3, Mistral) • **SHAP**
 
 ---
 
-### 3. Airfoil Performance Prediction (NACA)
-Machine learning model to predict lift and drag.
+**Open to Work** — Remote Data Scientist / ML Engineer / MLOps roles
 
-- Replaces expensive simulations (XFOIL/CFD)  
-- Demonstrates ML as engineering surrogate  
-
----
-
-### 4. Customer Churn Prediction
-Deep learning-based churn prediction system.
-
-- TensorFlow/Keras  
-- SQL preprocessing  
-- SHAP  
-- Streamlit  
-
----
-
-## Tech Stack
-
-Python, SQL, Pandas, NumPy, PySpark  
-Scikit-learn, XGBoost, TensorFlow, SHAP  
-MLflow, FastAPI, Docker, GitHub Actions, Azure  
-
----
-
-## Certifications
-
-- Microsoft Azure AI-900  
-- Machine Learning Specialization — Stanford  
-- Advanced Certification — IIT Roorkee  
-
-**NPTEL (Elite / Elite + Silver):**
-- Data Analytics with Python  
-- Introduction to Machine Learning  
-- Business Intelligence and Analytics  
-
----
-
-## Open To
-
-- Machine Learning Engineer  
-- MLOps Engineer  
-- Data Science Trainer  
-
----
-
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/krit-prakash-9a32a1246/  
-GitHub: https://github.com/lightonly1  
-Email: lightonly66@gmail.com  
+📧 lightonly66@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/krit-prakash-9a32a1246/)
