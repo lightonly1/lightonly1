@@ -1,15 +1,15 @@
 # Hi, I’m Krit Prakash
 
 **Data Scientist | ML Engineer | MLOps Specialist**  
-M.Tech from IIT (ISM) Dhanbad | Ex-Assistant Professor (Applied AI/ML)
+M.Tech from IIT (ISM) Dhanbad 
 
-I build **end-to-end production ML systems** — from raw data to deployed APIs — with strong focus on predictive maintenance, time-series, and Generative AI (RAG).
+I build **end-to-end production ML systems** - from raw data to deployed APIs  with strong focus on predictive maintenance, time-series and Generative AI (RAG).
 
 ---
 
 ### 🔥 Featured Projects
 
-**1. NASA Turbofan Engine Predictive Maintenance – Full MLOps Pipeline**  
+**1. NASA Turbofan Engine Predictive Maintenance - Full MLOps Pipeline**  
 [→ Repository](https://github.com/lightonly1/turbofan-predictive-maintenance-mlops)  
 - PySpark preprocessing (20k+ records)  
 - XGBoost model (R² = **0.906**, RMSE = 12.71)  
