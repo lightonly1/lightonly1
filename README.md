@@ -1,38 +1,38 @@
 # Hi, I’m Krit Prakash
 
-**Data Scientist | ML Engineer | MLOps Specialist**  
-M.Tech from IIT (ISM) Dhanbad 
+### Data Scientist | ML Engineer | MLOps Specialist
+**M.Tech from IIT (ISM) Dhanbad**
 
-I build **end-to-end production ML systems** - from raw data to deployed APIs  with strong focus on predictive maintenance, time-series and Generative AI (RAG).
-
----
-
-### 🔥 Featured Projects
-
-**1. NASA Turbofan Engine Predictive Maintenance - Full MLOps Pipeline**  
-[→ Repository](https://github.com/lightonly1/turbofan-predictive-maintenance-mlops)  
-- PySpark preprocessing (20k+ records)  
-- XGBoost model (R² = **0.906**, RMSE = 12.71)  
-- MLflow tracking + FastAPI + Docker + Azure deployment + GitHub Actions CI/CD  
-- **Live Demo**: [turbofan-rul-app.azurewebsites.net/docs](https://turbofan-rul-app.azurewebsites.net/docs)
-
-**2. Local RAG System for Research Proposal Generation** (Tech Mahindra Makers Lab)  
-- Fully local LLM application using **LLaMA 3 + Mistral + LangChain + FAISS** (Ollama)  
-- Zero external API cost | Multi-step generation + evaluation workflow
-
-**3. NACA Airfoil Aerodynamic Prediction**  
-ML surrogate model achieving <5% deviation from physics simulations.
+I engineer end-to-end production machine learning systems, specializing in Predictive Maintenance (PHM), high-density time-series forecasting and production-grade Agentic Generative AI architectures.
 
 ---
 
-### Tech Stack
-**Python** • **PySpark** • **pandas** • **scikit-learn** • **XGBoost**  
-**MLflow** • **FastAPI** • **Docker** • **Azure** • **GitHub Actions**  
-**LangChain** • **FAISS** • **Ollama** (LLaMA 3, Mistral) • **SHAP**
+## Featured Production Systems
+
+### 1. Enterprise Financial LLM Auditor Platform
+* **Architecture:** Deterministic agentic routing state machine engineered via **LangGraph** and powered locally by Mistral-7B via Ollama.
+* **Storage & Metrics:** Persistent disk-level vector management using **ChromaDB** with automated **Ragas** validation scoring to track faithfulness and prevent system hallucinations.
+* **Interface:** Interactive browser interface deployed via Streamlit.
+
+### 2. NASA Turbofan Engine Predictive Maintenance Pipeline
+* **Processing:** PySpark engineering pipeline managing over 20k asset tracking records for Remaining Useful Life (RUL) forecasting.
+* **Modeling:** Custom XGBoost regressor yielding an R² of 0.906 and an RMSE of 12.71.
+* **Deployment:** End-to-end MLOps lifecycle tracked via MLflow, containerized via Docker and deployed via FastAPI onto Azure with automated GitHub Actions CI/CD gates.
+
+### 3. NACA Airfoil Aerodynamic Prediction Framework
+* **Physics AI:** Machine learning surrogate model engineered to predict aerodynamic performance coefficients, achieving under 5% deviation from classical numerical simulations.
 
 ---
 
-**Open to Work** — Remote Data Scientist / ML Engineer / MLOps roles
+## Technical Stack Core
 
-📧 lightonly66@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/krit-prakash-9a32a1246/)
+* **Languages & Core Data:** Python, PySpark, SQL, pandas, NumPy, scikit-learn
+* **Traditional ML & Forecasting:** XGBoost, LightGBM, Time-Series Forecasting, SHAP
+* **Agentic GenAI & LLMOps:** LangGraph, ChromaDB, Ollama, Ragas Evaluation, Prompt Engineering
+* **DevOps & MLOps Infrastructure:** MLflow, FastAPI, Docker, Azure Web Apps, GitHub Actions CI/CD
+
+---
+
+**Open to opportunities in Remote Data Scientist, ML Engineer and MLOps roles.**
+* **Email:** lightonly66@gmail.com
+* **LinkedIn:** linkedin.com/in/krit-prakash-9a32a1246
